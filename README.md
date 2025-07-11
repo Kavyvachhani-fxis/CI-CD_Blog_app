@@ -35,22 +35,6 @@ A modern and responsive blogging web application built with **React.js**. This a
 
 ---
 
-## 📂 Project Structure
-
-```
-Blogging-App-React.js/
-├── public/
-├── src/
-├── Screenshots/
-│   ├── image1.png
-│   └── image2.png
-├── Dockerfile
-├── .github/workflows/main.yml
-└── README.md
-```
-
----
-
 ## 🐳 Docker Commands
 
 ```bash
@@ -63,41 +47,7 @@ docker run -p 3000:80 my-app
 
 Then open your browser at [http://localhost:3000](http://localhost:3000)
 
----
 
-## 🔄 CI/CD with GitHub Actions
-
-- Triggers on push to `main`
-- Installs dependencies
-- Runs `npm run build`
-- Can be extended for deployment to Vercel, GitHub Pages, etc.
-
-File: `.github/workflows/main.yml`
-
----
-
-## 🌐 Deployment Options
-
-You can deploy this app using:
-
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-- [GitHub Pages](https://pages.github.com/)
-- [Render](https://render.com/)
-
----
-
-## 🧑‍💻 Contributing
-
-Pull requests are welcome. Please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 🙋‍♀️ Author
 
