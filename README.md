@@ -48,8 +48,3 @@ docker run -p 3000:80 my-app
 Then open your browser at [http://localhost:3000](http://localhost:3000)
 
 
-
-## 🙋‍♀️ Author
-
-**Kavya Vachhani**  
-[GitHub Profile](https://github.com/Kavyvachhani-fxis)
